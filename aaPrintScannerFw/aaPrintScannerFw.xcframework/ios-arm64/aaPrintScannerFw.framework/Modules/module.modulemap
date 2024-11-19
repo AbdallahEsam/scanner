@@ -1,0 +1,6 @@
+framework module aaPrintScannerFw {
+  umbrella header "aaPrintScannerFw.h"
+
+  export *
+  module * { export * }
+}
